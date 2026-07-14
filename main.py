@@ -39,13 +39,3 @@ final_result = np.random.choice([0,1], p=probabilities)
 print(f"Final_result: {final_result}")
 
 alert_system(0,final_result)
-
-#result = np.dot(h_gate, qubit)
-
-#probabilities = result**2
-
-#mearsurement = np.random.choice([0,1],p=probabilities)
-
-
-#print(f"Mearsurement: {mearsurement}")
-
